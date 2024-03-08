@@ -1,5 +1,7 @@
 ## CardapioWeb - Neidoca
 
+### Este Projeto Foi Construido Para Ser Apenas Uma Atividade Escolar. Não Tem Intuito De Venda Ou Algo Do Tipo.
+
 ### 🌐 SOCIAL 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vitin.cxzn/)
 
